@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/srijanayadav24/Bitcoin-Prediction-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/srijanayadav24/Bitcoin-Prediction-Backend.git
